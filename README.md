@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">I am a dedicated Flutter Developer with over a year of experience in Java and Dart, specializing in creating user-centric applications. Proficient in the Flutter framework, state management (Cubit, Bloc), and API integration with Dio, I am passionate about performance and scalability optimization, bug fixing, and maintaining clean and maintainable code. Committed to using the MVVM architecture, I aim to enhance user experiences, drive organizational growth, and stay updated with new technology trends.<br><br>You can check my work on:<br><br>GitHub: <a href="https://github.com/Ahmed1092002">Ahmed1092002</a><br>LinkedIn: <ahref="https://www.linkedin.com/in/ahmedtamer109">ahmedtamer109</a><br>Feel free to reach out if you want to collaborate on any web development ideas or projects.</p>
+<p align="left">
+  I am a dedicated Flutter Developer with over a year of experience in Java and Dart, specializing in creating user-centric applications. Proficient in the Flutter framework, state management (Cubit, Bloc), and API integration with Dio, I am passionate about performance and scalability optimization, bug fixing, and maintaining clean and maintainable code. Committed to using the MVVM architecture, I aim to enhance user experiences, drive organizational growth, and stay updated with new technology trends.<br><br>
+  You can check my work on:<br><br>
+  GitHub: <a href="https://github.com/Ahmed1092002">Ahmed1092002</a><br>
+  LinkedIn: <a href="https://www.linkedin.com/in/ahmedtamer109">ahmedtamer109</a><br><br>
+  Feel free to reach out if you want to collaborate on any web development ideas or projects.
+</p>
+
 
 ###
 
