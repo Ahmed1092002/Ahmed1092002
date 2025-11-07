@@ -2,82 +2,101 @@
 
 ###
 
-<p align="left">My name is Ahmed Tamer and I'm a Flutter Developer from Egypt</p>
+<p align="left">My name is <b>Ahmed Tamer</b> — a <b>Flutter & Web Developer</b> from Egypt 🇪🇬</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">💡 About Me</h2>
 
 ###
 
 <p align="left">
-  I am a dedicated Flutter Developer with over a year of experience in Java and Dart, specializing in creating user-centric applications. Proficient in the Flutter framework, state management (Cubit, Bloc), and API integration with Dio, I am passionate about performance and scalability optimization, bug fixing, and maintaining clean and maintainable code. Committed to using the MVVM architecture, I aim to enhance user experiences, drive organizational growth, and stay updated with new technology trends.<br><br>
-  You can check my work on:<br><br>
-  GitHub: <a href="https://github.com/Ahmed1092002">Ahmed1092002</a><br>
-  LinkedIn: <a href="https://www.linkedin.com/in/ahmedtamer109">ahmedtamer109</a><br><br>
-  Feel free to reach out if you want to collaborate on any web development ideas or projects.
+  I'm a passionate <b>Software Engineer</b> specializing in <b>Flutter</b> and <b>React</b>, with hands-on experience across <b>mobile</b> and <b>web platforms</b>.  
+  Skilled in state management (Cubit, Bloc, Redux Toolkit, Zustand), API integration, and clean architecture design.  
+  <br><br>
+  I’ve worked on multiple projects at <b>AppLogica</b> including ERP systems, invoice management, and AI-powered chat applications using LiveKit and Paymob.  
+  <br><br>
+  💼 <b>Currently learning:</b> Spring Boot, Microservices, and Database Design to grow toward full-stack development.  
+  <br><br>
+  🔗 Check my work on:  
+  <a href="https://github.com/Ahmed1092002">GitHub</a> •  
+  <a href="https://www.linkedin.com/in/ahmedtamer109">LinkedIn</a>  
+  <br><br>
+  ✉️ <b>Reach out:</b> <a href="mailto:atamer802@yahoo.com">atamer802@yahoo.com</a>
 </p>
-
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🧠 I Code With</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
 </div>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmedtamer109">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-
+<h2 align="left">🚀 Projects</h2>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ahmed1092002/count.svg?"  />
-</div>
+<p align="left">
+  <a href="https://github.com/Ahmed1092002/Workers_App">Worker's App</a> – Flutter, Firebase, Dio, Hive, Cubit  
+  <br>Business platform for job posting, chat, and notifications.  
+  <br><br>
 
-###
+  <a href="https://github.com/Ahmed1092002/quran_app">El Quran App</a> – Flutter, Firebase  
+  <br>Prayer times, recitations, and scholar audios with user accounts.  
+  <br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed1092002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed1092002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+  <a href="https://github.com/Ahmed1092002/ketaby/tree/master">Ketapy E-commerce</a> – Flutter, Cubit  
+  <br>Online bookstore app for buying programming-related books.  
+  <br><br>
 
-###
+  <a href="https://github.com/Ahmed1092002/Graduation_Project_Arshdny/tree/main">Arshdny (Graduation Project)</a> – Flutter, .NET, Python, Firebase  
+  <br>Platform supporting refugees with jobs and community learning.  
+  <br><br>
 
-<p align="left">Check out some of my projects:<br>
-  <a href="https://github.com/Ahmed1092002/Workers_App">Worker's App</a><br>
-  <a href="https://github.com/Ahmed1092002/quran_app">El Quran App</a><br>
-  <a href="https://github.com/Ahmed1092002/ketaby/tree/master">Ketapy E-commerce</a><br>
-  <a href="https://github.com/Ahmed1092002/Graduation_Project_Arshdny/tree/main">Arshdny (Graduation Project)</a><br>
-  <a href="https://github.com/Ahmed1092002/Sleeping-Teacher-Assistant-OS">Sleeping Teacher Assistant OS</a><br>
-  <a href="https://github.com/Ahmed1092002/Microservice_Project">Microservice Project</a><br>
-  <a href="https://github.com/Ahmed1092002/E-commerce-Backend-by-Spring">E-commerce Backend by Spring</a><br>
+  <a href="https://github.com/Ahmed1092002/E-commerce-Backend-by-Spring">E-commerce Backend by Spring</a> – Java, Spring Boot, REST API  
+  <br>Backend service for product and order management.  
+  <br><br>
+
+  <a href="https://github.com/Ahmed1092002/Microservice_Project">Microservice Project</a> – Spring Boot, Docker  
+  <br>Microservice architecture demo for learning distributed systems.  
 </p>
 
+###
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed1092002&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed1092002&layout=compact&theme=dracula&hide_border=false" height="150" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ahmed1092002/count.svg?" />
+</div>
