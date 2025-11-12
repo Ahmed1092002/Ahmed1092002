@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/ahmedtamer109">LinkedIn</a>  •  
   <a href="https://ahmed-tamer.vercel.app">portfolio</a> 
   <br><br>
-  ✉️ <b>Reach out:</b> <a href="mailto:atamer802@yahoo.com">atamer802@yahoo.com</a>
+  ✉️ <b>Reach out:</b> <a href="ahmedtamerelsayed17@gmail.com">ahmedtamerelsayed17@gmail.com</a>
 </p>
 
 ###
